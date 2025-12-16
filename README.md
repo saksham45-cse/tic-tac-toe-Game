@@ -18,4 +18,4 @@ A simple and interactive **Tic Tac Toe game** built using **HTML, CSS, and JavaS
 ## 🔹 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saksham45-cse/tic-tac-toe.git
+   git clone https://github.com/saksham45-cse/tic-tac-toe-Game.git
